@@ -1,1 +1,1 @@
-A repo to learn about git. It's a practice onusing git and gitHub.
+A repo to learn about git. It's a practice on using git and gitHub.
